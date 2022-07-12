@@ -5,4 +5,5 @@
 | Problem Link  |  My solution   | Explanation |
 | ------------- | ------------- | ------------- |
 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)   | [Solution](https://github.com/Asif1310/3013/blob/main/Leetcode1.sql)   | [Blog Post](https://thedumbdatum.wordpress.com/2022/07/11/leetcode-second-highest-salary-problem/)
+| [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [Solution](https://github.com/Asif1310/3013/blob/main/Leetcode2.sql) | Blog Post
 
