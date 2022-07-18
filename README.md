@@ -1,6 +1,6 @@
 # My Leetcode adventure!
 
-## I've decided to practice one SQL challenge per day to improve my grasp of SQL. 
+## I've decided to practice one SQL challenge per day to improve my grasp of SQL (Only free ones as I don't have access to the premium challenges!)
 
 | Problem Link  |  My solution   | Explanation |
 | ------------- | ------------- | ------------- |
