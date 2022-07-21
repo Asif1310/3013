@@ -12,7 +12,7 @@
 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode6.sql) | [Blog Post](https://thedumbdatum.wordpress.com/2022/07/17/leetcode-duplicate-emails/)
 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode7.sql) | [Blog Post](https://thedumbdatum.wordpress.com/2022/07/17/leetcode-rising-temperature/)
 | [Rank Scores](https://leetcode.com/problems/rank-scores/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode8.sql) | [Blog Post](https://thedumbdatum.wordpress.com/2022/07/18/leetcode-rank-scores/)
-| [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode9.sql) | [Blog Post]()
+| [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode9.sql) | [Blog Post](https://thedumbdatum.wordpress.com/2022/07/21/leetcode-consecutive-numbers/)
 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode10.sql) | [Blog Post]()
 
 
