@@ -14,7 +14,7 @@
 | [Rank Scores](https://leetcode.com/problems/rank-scores/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode8.sql) | [Blog Post](https://thedumbdatum.wordpress.com/2022/07/18/leetcode-rank-scores/)
 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode9.sql) | [Blog Post](https://thedumbdatum.wordpress.com/2022/07/21/leetcode-consecutive-numbers/)
 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode10.sql) | [Blog Post](https://thedumbdatum.wordpress.com/2022/07/23/leetcode-department-highest-salary/)
-| [Tree Node](https://leetcode.com/problems/tree-node/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode11.sql) | [Blog Post]()
+| [Tree Node](https://leetcode.com/problems/tree-node/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode11.sql) | [Blog Post](https://thedumbdatum.wordpress.com/2022/07/24/leetcode-tree-node/)
 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode12.sql) | [Blog Post](https://thedumbdatum.wordpress.com/2022/07/23/leetcode-exchange-seats/)
 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode13.sql) | [Blog Post]()
 
