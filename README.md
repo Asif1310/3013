@@ -20,6 +20,7 @@
 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode14.sql) | NA
 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode15.sql) | NA
 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode16.sql) | NA
+| [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode17.sql) | NA
 
 
 
