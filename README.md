@@ -19,6 +19,7 @@
 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode13.sql) | [Blog Post](https://thedumbdatum.wordpress.com/2022/07/24/leetcode-customers-who-never-order/)
 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode14.sql) | NA
 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode15.sql) | NA
+| [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[Solution](https://github.com/Asif1310/3013/blob/main/Leetcode16.sql) | NA
 
 
 
